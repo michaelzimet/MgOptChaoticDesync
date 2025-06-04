@@ -17,4 +17,4 @@ The script find_fourier computes Fourier coefficients for the RHH model using da
 EBC_mz is used to generate Figs 7-9. EBC_mult is used to generate Fig 10.
 
 These are specific implemenations of the Event-Based Control code published by Faranak Rajabi here: https://github.com/faranakR/HH-Stochastic-Control
-and require the functions folder from that repository in the same Matlab folder. 
+and require the functions folder from that repository to be present in the same Matlab folder. 
